@@ -1,5 +1,6 @@
-package com.springweb.webservice.domain.posts;
+package com.springweb.webservice.dto.posts;
 
+import com.springweb.webservice.domain.posts.Posts;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
